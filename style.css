@@ -1,0 +1,35 @@
+.courses {
+   display: flex;
+   margin-bottom: 15px;
+}
+
+.courses>* {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+
+.course-item-title {
+   font-weight: 700;
+   font-size: 18px;
+}
+
+.course-item-value {
+   font-size: 32px;
+   font-weight: 300;
+}
+
+.container {
+
+   margin: 100px auto;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+
+.row {
+   
+   justify-content: center;
+}
+.card {
+   
+   padding: 10px;
+}
